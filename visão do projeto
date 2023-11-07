@@ -8,5 +8,5 @@ imagens relacionads geradas por ai de imagem
 -----------------------------------------------------------------------------------
 tecnologias:
 chatbot: https://github.com/xtekky/gpt4free
-text to speach:
-interfaçe:
+text to speach: https://github.com/neonbjb/tortoise-tts
+interfaçe: customtkinter
