@@ -7,6 +7,6 @@ gostadas:
 imagens relacionads geradas por ai de imagem
 -----------------------------------------------------------------------------------
 tecnologias:
-chatbot: https://github.com/xtekky/gpt4free ou https://github.com/jmorganca/ollama
+chatbot: https://github.com/jmorganca/ollama
 text to speach: https://github.com/neonbjb/tortoise-tts
 interfaçe: customtkinter
